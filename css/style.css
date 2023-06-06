@@ -1,0 +1,16 @@
+*{
+	scroll-behavior: smooth;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.height{
+	margin-top: 5vh;
+}
+@media(min-width : 768px){
+    .showcase{
+        width:  100%;
+        padding: 0px;
+        
+    }
+}
